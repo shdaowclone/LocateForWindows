@@ -1,8 +1,12 @@
 #LocateForWindows
+
 #Made by Shadowclone
+
 #Link https://github.com/shdaowclone/LocateForWindows
 
+
 This is an Alternative for Linux locate for windows
+
 Fast search for file location
 
 The pre-compiled version was compiled using "pyinstaller", If added to "Windows" folder it can be used directly from CMD or Powershell
