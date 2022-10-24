@@ -1,5 +1,5 @@
 #LocateForWindows V 0.1
-#Made by Shadowclone
+#Made by Shdaowclone
 #Link https://github.com/shdaowclone/LocateForWindows
 
 import sqlite3
